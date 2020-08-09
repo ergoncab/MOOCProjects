@@ -1,1 +1,1 @@
-# Projects for the programming tracks on https://www.freecodecamp.org/
+# Projects for the programming tracks on www.freecodecamp.org/
